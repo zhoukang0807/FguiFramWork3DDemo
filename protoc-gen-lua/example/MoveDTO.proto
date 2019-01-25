@@ -1,0 +1,28 @@
+syntax = "proto3";
+package msg;
+message Vector3 {
+  string x = 1;
+  string y = 2;
+  string z = 3;
+}
+message PlayerDTO {
+  int32 id = 1;
+  string UserName = 2;
+}
+message PlaysResult {
+  repeated PlayerDTO playes = 1;
+}
+message MoveDTO {
+  int32 id = 1;
+  Vector3 point = 2;
+  Vector3 roation = 3;
+}
+message MoveResult {
+  repeated MoveDTO moves = 1;
+}
+
+
+
+
+
+

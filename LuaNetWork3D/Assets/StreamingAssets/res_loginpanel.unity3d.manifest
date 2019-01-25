@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1278659619
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ba2b8984338d33df703551ac9dd4544
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ecdf77631dba58847087291f56a593b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/FGUI/Res/loginPanel/loginpanel_atlas0.png
+- Assets/LuaFramework/Resources/FGUI/Res/loginPanel/loginpanel_qkdeu.mp3
+Dependencies: []

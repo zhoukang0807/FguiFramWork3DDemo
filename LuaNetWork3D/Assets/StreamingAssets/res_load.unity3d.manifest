@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4273952598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0653dd74c335523eedfef230dc07eb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/LuaFramework/Resources/FGUI/Res/load/load_atlas0.png
+Dependencies: []

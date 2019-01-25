@@ -1,0 +1,19 @@
+syntax = "proto3";
+package msg; 
+message StatusDTO{
+  message Status{
+    int32 wa = 1;
+    int32 wr = 2;
+    int32 wi = 3;
+    int32 wj = 4;
+  }
+  int32 id = 1;
+  Status status = 2;
+}
+message StatusResult{
+  repeated StatusDTO status = 1;
+}
+
+
+
+

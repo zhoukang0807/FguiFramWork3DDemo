@@ -1,0 +1,7 @@
+{
+	"LogLevel": "release",
+	"LogPath": "",
+	"TCPAddr": "0.0.0.0:3588",
+	"WSAddr": "0.0.0.0:8888",
+	"MaxConnNum": 20000
+}

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuaNetWork3D", "LuaNetWork3D.csproj", "{03C63EF9-886F-E80D-C0AB-65C28930319B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuaNetWork3D.Plugins", "LuaNetWork3D.Plugins.csproj", "{44841F2A-9A22-9742-2260-4E9B843E7500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuaNetWork3D.Editor.Plugins", "LuaNetWork3D.Editor.Plugins.csproj", "{174F3A6A-0715-7875-464C-E829EA377EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuaNetWork3D.Editor", "LuaNetWork3D.Editor.csproj", "{BBDD2FCA-D5AB-C7F8-409E-6143C4DB9C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C63EF9-886F-E80D-C0AB-65C28930319B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C63EF9-886F-E80D-C0AB-65C28930319B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C63EF9-886F-E80D-C0AB-65C28930319B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C63EF9-886F-E80D-C0AB-65C28930319B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44841F2A-9A22-9742-2260-4E9B843E7500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44841F2A-9A22-9742-2260-4E9B843E7500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44841F2A-9A22-9742-2260-4E9B843E7500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44841F2A-9A22-9742-2260-4E9B843E7500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{174F3A6A-0715-7875-464C-E829EA377EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174F3A6A-0715-7875-464C-E829EA377EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174F3A6A-0715-7875-464C-E829EA377EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174F3A6A-0715-7875-464C-E829EA377EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDD2FCA-D5AB-C7F8-409E-6143C4DB9C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDD2FCA-D5AB-C7F8-409E-6143C4DB9C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDD2FCA-D5AB-C7F8-409E-6143C4DB9C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDD2FCA-D5AB-C7F8-409E-6143C4DB9C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

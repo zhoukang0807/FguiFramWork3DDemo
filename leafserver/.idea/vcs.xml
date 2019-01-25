@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/acroca/go-symbols" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/derekparker/delve" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gorilla/websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/ianthehat/godef" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/karrick/godirwalk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mdempsky/gocode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/name5566/leaf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/pkg/errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/rogpeppe/godef" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/sqs/goreturns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/stamblerre/gocode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/uudashr/gopkgs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/lint" vcs="Git" />
+  </component>
+</project>
